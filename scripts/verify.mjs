@@ -1,0 +1,10 @@
+import {readFile,access,readdir} from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const catalog=JSON.parse(await readFile('dist/catalog.json','utf8'));
+const dirs=(await readdir('products',{withFileTypes:true})).filter(d=>d.isDirectory()).map(d=>d.name).sort();
+assert.deepEqual(catalog.map(c=>c.name).sort(),dirs);
+const sources=catalog.flatMap(c=>c.items.map(i=>i.src));
+assert.equal(new Set(sources).size,sources.length,'Duplicate image paths');
+await Promise.all(sources.map(s=>access('dist/'+decodeURIComponent(s))));
+for(const f of ['index.html','style.css','app.js'])await access('dist/'+f);
+console.log(`Verified ${catalog.length} categories and ${sources.length} image references.`);
