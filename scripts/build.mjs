@@ -14,7 +14,7 @@ if(redesigns.length){
   await cp('redesigns','dist/redesigns',{recursive:true});
   for(const redesign of redesigns){
     const category=categories.find(c=>c.name===redesign.category);
-    const original=['products',redesign.category,redesign.file].map(encodeURIComponent).join('/');
+    const original=['products',redesign.category,...redesign.file.split('/')].map(encodeURIComponent).join('/');
     const item=category?.items.find(i=>i.src===original);
     if(!item)throw new Error(`Redesign source missing: ${original}`);
     item.originalSrc=item.src;
