@@ -6,5 +6,8 @@ assert.deepEqual(catalog.map(c=>c.name).sort(),dirs);
 const sources=catalog.flatMap(c=>c.items.map(i=>i.src));
 assert.equal(new Set(sources).size,sources.length,'Duplicate image paths');
 await Promise.all(sources.map(s=>access('dist/'+decodeURIComponent(s))));
+const colourSets=catalog.find(c=>c.name==='Colour Sets');
+assert(colourSets,'Colour Sets category missing');
+assert.deepEqual([...new Set(colourSets.items.map(i=>i.subcategory).filter(Boolean))],['Flash','Flash Glass Ball','General','Glass Ball','Glitter','Huge Set','Pearl','Rounded','Syrup+Jelly']);
 for(const f of ['index.html','style.css','app.js'])await access('dist/'+f);
 console.log(`Verified ${catalog.length} categories and ${sources.length} image references.`);

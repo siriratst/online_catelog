@@ -6,7 +6,16 @@ await cp('web','dist',{recursive:true});
 await cp('products','dist/products',{recursive:true});
 const categories=[];
 async function images(dir){let result=[];for(const e of await readdir(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())result.push(...await images(p));else if(/\.(jpe?g|png|webp|gif)$/i.test(e.name))result.push(p);}return result.sort((a,b)=>a.localeCompare(b,'th',{numeric:true}));}
-for(const dir of (await readdir('products',{withFileTypes:true})).filter(x=>x.isDirectory()).sort((a,b)=>a.name.localeCompare(b.name,'th',{numeric:true}))){const files=await images(path.join('products',dir.name));categories.push({name:dir.name,items:files.map(p=>({name:path.basename(p,path.extname(p)),src:p.split(path.sep).map(encodeURIComponent).join('/')}))});}
+for(const dir of (await readdir('products',{withFileTypes:true})).filter(x=>x.isDirectory()).sort((a,b)=>a.name.localeCompare(b.name,'th',{numeric:true}))){
+  const categoryPath=path.join('products',dir.name);
+  const files=await images(categoryPath);
+  const items=files.map(p=>{
+    const relativeParts=path.relative(categoryPath,p).split(path.sep);
+    const subcategory=relativeParts.length>1?relativeParts.slice(0,-1).join(' / '):'';
+    return {name:path.basename(p,path.extname(p)),src:p.split(path.sep).map(encodeURIComponent).join('/'),...(subcategory&&{subcategory})};
+  });
+  categories.push({name:dir.name,items});
+}
 await writeFile('dist/catalog.json',JSON.stringify(categories));
 let redesigns=[];
 try { redesigns=JSON.parse(await readFile('redesigns/manifest.json','utf8')); } catch(error) { if(error.code!=='ENOENT')throw error; }
