@@ -67,14 +67,6 @@ function render(){
   const grid=el('div','grid');
   $('content').append(grid);
 
-  if(category&&subcategories.length&&!activeSubcategory){
-    for(const subcategory of subcategories){
-      const items=category.items.filter(item=>item.subcategory===subcategory);
-      grid.append(categoryCard(subcategory,items,route(category.name,subcategory)));
-    }
-    return;
-  }
-
   if(category){
     if(!current.length)grid.append(el('p','empty','ยังไม่มีสินค้าในหมวดนี้'));
     current.forEach((item,index)=>{
