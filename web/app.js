@@ -141,15 +141,22 @@ async function init(){
 
     for(const category of categories){
       const container=el('div','nav-group');
+      const subcategories=groups(category);
       const categoryLink=el('a','category-link',category.name);
       categoryLink.href=route(category.name);
       categoryLink.dataset.category=category.name;
       categoryLink.append(el('span',null,String(category.items.length)));
       container.append(categoryLink);
 
-      const subcategories=groups(category);
       if(subcategories.length){
         const subnav=el('div','subnav');
+        subnav.hidden=true;
+        categoryLink.setAttribute('aria-expanded','false');
+        categoryLink.addEventListener('click',()=>{
+          const expanded=categoryLink.getAttribute('aria-expanded')==='true';
+          categoryLink.setAttribute('aria-expanded',String(!expanded));
+          subnav.hidden=expanded;
+        });
         for(const subcategory of subcategories){
           const count=category.items.filter(item=>item.subcategory===subcategory).length;
           const link=el('a',null,subcategory);
