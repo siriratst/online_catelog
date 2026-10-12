@@ -3533,5 +3533,210 @@
     "category": "Buff and Rasp",
     "file": "YAA001 ตะไบหยาบญี่ปุ่น 100 100.webp",
     "output": "Final/Buff and Rasp/YAA001 ตะไบหยาบญี่ปุ่น 100 100.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "BORN001 ฟอร์มต่อเล็บอย่างดี 500 ดวง.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/BORN001 ฟอร์มต่อเล็บอย่างดี 500 ดวง.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "BORN022 น้ำยาต่ออะคริลิค BORN PRETTY.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/BORN022 น้ำยาต่ออะคริลิค BORN PRETTY.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "BORN023_CLEAR ผงอะคริลิค (สีใส) แบรนด์BORN PRETTY.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/BORN023_CLEAR ผงอะคริลิค (สีใส) แบรนด์BORN PRETTY.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "BORN023_PINK ผงอะคริลิค (สีชมพู) แบรนด์BORN PRETTY.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/BORN023_PINK ผงอะคริลิค (สีชมพู) แบรนด์BORN PRETTY.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "C012_01 POLY GEL SET สีใส.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/C012_01 POLY GEL SET สีใส.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "C012_04 POLY GEL SET สีชมพูธรรมชาติ.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/C012_04 POLY GEL SET สีชมพูธรรมชาติ.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "C012_06 POLY GEL SET สี NUDE PINK.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/C012_06 POLY GEL SET สี NUDE PINK.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "C014 NAIL TIPS (ฟอร์มต่อPOLY GEL) CANNI.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/C014 NAIL TIPS (ฟอร์มต่อPOLY GEL) CANNI.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "C015 พู่กันต่อPOLY GEL CANNI.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/C015 พู่กันต่อPOLY GEL CANNI.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "C016 NAIL LIQUID (น้ำยาเกลี่ยPOLY GEL) CANNI.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/C016 NAIL LIQUID (น้ำยาเกลี่ยPOLY GEL) CANNI.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "LIM001 เซตฝึกต่ออะคริลิค แบรนด์ LIMEGIRL.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/LIM001 เซตฝึกต่ออะคริลิค แบรนด์ LIMEGIRL.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "LUGX1_LU008 HARD GEL (สีใส) LUGX.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/LUGX1_LU008 HARD GEL (สีใส) LUGX.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "LUGX1_LU011 HARD GEL (สีขาว) แบรนด์LUGX.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/LUGX1_LU011 HARD GEL (สีขาว) แบรนด์LUGX.png"
+  },
+  {
+    "category": "อุปกรณ์ต่อเล็บ",
+    "file": "TA006 MAGIC BUILDER GEL แบรนด์ TADEE.webp",
+    "output": "Final/อุปกรณ์ต่อเล็บ/TA006 MAGIC BUILDER GEL แบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU002 หัวเจียข้าวโพด.webp",
+    "output": "Final/หัวเจีย/LU002 หัวเจียข้าวโพด.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU003 หัวเจียทู่ เคลียร์หนังข้างเล็บ.webp",
+    "output": "Final/หัวเจีย/LU003 หัวเจียทู่ เคลียร์หนังข้างเล็บ.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU004 หัวเจียแหลม เจาะถอดอะไหล่.webp",
+    "output": "Final/หัวเจีย/LU004 หัวเจียแหลม เจาะถอดอะไหล่.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU005 ขัดหน้าเล็บ เตรียมหน้าเล็บ.webp",
+    "output": "Final/หัวเจีย/LU005 ขัดหน้าเล็บ เตรียมหน้าเล็บ.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU006 หัวเจียหยาบดำ.webp",
+    "output": "Final/หัวเจีย/LU006 หัวเจียหยาบดำ.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU007 หัวเจียหยาบดำแหลม.webp",
+    "output": "Final/หัวเจีย/LU007 หัวเจียหยาบดำแหลม.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU008 หัวปัดฝุ่น.webp",
+    "output": "Final/หัวเจีย/LU008 หัวปัดฝุ่น.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU009 หัวเจียทู่ใหญ่.webp",
+    "output": "Final/หัวเจีย/LU009 หัวเจียทู่ใหญ่.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU010 หัวเจียทู่เล็ก.webp",
+    "output": "Final/หัวเจีย/LU010 หัวเจียทู่เล็ก.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU011 หัวเจียแหลมอ้วน.webp",
+    "output": "Final/หัวเจีย/LU011 หัวเจียแหลมอ้วน.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU012 หัวเจียปลายกลม.webp",
+    "output": "Final/หัวเจีย/LU012 หัวเจียปลายกลม.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU014 หัวเจียหัวหมวก.webp",
+    "output": "Final/หัวเจีย/LU014 หัวเจียหัวหมวก.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU018 หัวเจียแหลมทอง แบรนด์ LUGX.webp",
+    "output": "Final/หัวเจีย/LU018 หัวเจียแหลมทอง แบรนด์ LUGX.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU019 หัวเจียหยาบแหลมทอง แบรนด์ LUGX.webp",
+    "output": "Final/หัวเจีย/LU019 หัวเจียหยาบแหลมทอง แบรนด์ LUGX.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU020 หัวเจียหยาบแหลมเงิน แบรนด์ LUGX.webp",
+    "output": "Final/หัวเจีย/LU020 หัวเจียหยาบแหลมเงิน แบรนด์ LUGX.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU021 หัวเจียอะคริลิคเกรดพรีเมี่ยม แบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU021 หัวเจียอะคริลิคเกรดพรีเมี่ยม แบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU022 หัวเจียแหลมอ้วน แบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU022 หัวเจียแหลมอ้วน แบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU023 หัวเจียทรงปิรามิด แบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU023 หัวเจียทรงปิรามิด แบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU024 หัวเจียหยาบแหลมเงิน แบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU024 หัวเจียหยาบแหลมเงิน แบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU025 หัวเจียทรงกระบอกหยาบเงิน แบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU025 หัวเจียทรงกระบอกหยาบเงิน แบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU026 หัวเจียทรงกลม แบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU026 หัวเจียทรงกลม แบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU027 หัวเจียปิรามิดยาวแบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU027 หัวเจียปิรามิดยาวแบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU028 หัวเจียทรงแหลมยาวแบรนด์ TADEE.webp",
+    "output": "Final/หัวเจีย/LU028 หัวเจียทรงแหลมยาวแบรนด์ TADEE.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "LU030 หัวเจียข้าวโพด.webp",
+    "output": "Final/หัวเจีย/LU030 หัวเจียข้าวโพด.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "OT078 กระดาษทรายสำหรับใส่หัวเจีย(DETAIL).webp",
+    "output": "Final/หัวเจีย/OT078 กระดาษทรายสำหรับใส่หัวเจีย(DETAIL).png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "OT079_01.webp",
+    "output": "Final/หัวเจีย/OT079_01.png"
+  },
+  {
+    "category": "หัวเจีย",
+    "file": "OT080 กระดาษทรายสำหรับใส่หัวเจีย.webp",
+    "output": "Final/หัวเจีย/OT080 กระดาษทรายสำหรับใส่หัวเจีย.png"
   }
 ]
