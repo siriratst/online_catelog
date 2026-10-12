@@ -2213,5 +2213,345 @@
     "category": "Electronics",
     "file": "UV001.webp",
     "output": "Final/Electronics/UV001.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "5A-SA แหนบต่อขนตา ทรงตรง แบรนด์ VETUS.webp",
+    "output": "Final/Eyelash/5A-SA แหนบต่อขนตา ทรงตรง แบรนด์ VETUS.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "6A-SA แหนบต่อขนตา รุ่นหัวจิก แบรนด์ VETUS.webp",
+    "output": "Final/Eyelash/6A-SA แหนบต่อขนตา รุ่นหัวจิก แบรนด์ VETUS.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "7-SA แหนบต่อขนตา ทรงโค้ง แบรนด์ VETUS.webp",
+    "output": "Final/Eyelash/7-SA แหนบต่อขนตา ทรงโค้ง แบรนด์ VETUS.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "BOH001 กาวต่อขนตาสูตร ULTRA (สีส้ม).webp",
+    "output": "Final/Eyelash/BOH001 กาวต่อขนตาสูตร ULTRA (สีส้ม).png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "BOH002กาวต่อขนตาสูตร ULTIMATE (สีทอง).webp",
+    "output": "Final/Eyelash/BOH002กาวต่อขนตาสูตร ULTIMATE (สีทอง).png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "BOH004 กระจกช่างต่อขนตา.webp",
+    "output": "Final/Eyelash/BOH004 กระจกช่างต่อขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "BZ004 เจลถอดขนตา TADEE.webp",
+    "output": "Final/Eyelash/BZ004 เจลถอดขนตา TADEE.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY001 แท่นวางแหนบต่อขนตาสีขาว.webp",
+    "output": "Final/Eyelash/EY001 แท่นวางแหนบต่อขนตาสีขาว.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY002 แท่นวางแหนบต่อขนตาสีดำ.webp",
+    "output": "Final/Eyelash/EY002 แท่นวางแหนบต่อขนตาสีดำ.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY004 ไมโครบัด สำหรับเช็ดขนตา.webp",
+    "output": "Final/Eyelash/EY004 ไมโครบัด สำหรับเช็ดขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY005 แผ่นรองกาวต่อขนตา.webp",
+    "output": "Final/Eyelash/EY005 แผ่นรองกาวต่อขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY008 อายแพดต่อขนตา 50 คู่.webp",
+    "output": "Final/Eyelash/EY008 อายแพดต่อขนตา 50 คู่.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY010 แปรงปัดขนตาคละสี.webp",
+    "output": "Final/Eyelash/EY010 แปรงปัดขนตาคละสี.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY011 แหวนใสกาวต่อขนตา.webp",
+    "output": "Final/Eyelash/EY011 แหวนใสกาวต่อขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY012 IB PRIMER.webp",
+    "output": "Final/Eyelash/EY012 IB PRIMER.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY013 LASH SHAMPOO.webp",
+    "output": "Final/Eyelash/EY013 LASH SHAMPOO.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY014 กล่องใส่กาวต่อขนตา.webp",
+    "output": "Final/Eyelash/EY014 กล่องใส่กาวต่อขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY015_002 ซิลิโคนวางต่อขนตา.webp",
+    "output": "Final/Eyelash/EY015_002 ซิลิโคนวางต่อขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY020 กาวต่อขนตา แบรนด์ TADEE.webp",
+    "output": "Final/Eyelash/EY020 กาวต่อขนตา แบรนด์ TADEE.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY021 เทปต่อขนตาแพค 5 อัน.webp",
+    "output": "Final/Eyelash/EY021 เทปต่อขนตาแพค 5 อัน.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY022 เซตดัดขนตา แบรนด์ ESQIDO.webp",
+    "output": "Final/Eyelash/EY022 เซตดัดขนตา แบรนด์ ESQIDO.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY023 PROTEIN REMOVER แบรนด์ TADEE.webp",
+    "output": "Final/Eyelash/EY023 PROTEIN REMOVER แบรนด์ TADEE.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY024 เจลหนืดสำหรับดัดขนตา.webp",
+    "output": "Final/Eyelash/EY024 เจลหนืดสำหรับดัดขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY025 ซิลิโคนดัด 10 ชิ้น 5 ไซส์.webp",
+    "output": "Final/Eyelash/EY025 ซิลิโคนดัด 10 ชิ้น 5 ไซส์.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY026 ซิลิแบนวางขนตา 1 คู่.webp",
+    "output": "Final/Eyelash/EY026 ซิลิแบนวางขนตา 1 คู่.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY027 น้ำยาลิฟติ้ง ROLLY KING .webp",
+    "output": "Final/Eyelash/EY027 น้ำยาลิฟติ้ง ROLLY KING .png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY028 แหวนผสมเจลหนืด.webp",
+    "output": "Final/Eyelash/EY028 แหวนผสมเจลหนืด.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY029 เครื่องเป่าขนตาไร้สาย แบรนด์ GIRL FAN.webp",
+    "output": "Final/Eyelash/EY029 เครื่องเป่าขนตาไร้สาย แบรนด์ GIRL FAN.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY031 ขนตาไต้หวัน 0.07 LJ.webp",
+    "output": "Final/Eyelash/EY031 ขนตาไต้หวัน 0.07 LJ.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY032 ขนตาไต้หวัน 0.07 LB.webp",
+    "output": "Final/Eyelash/EY032 ขนตาไต้หวัน 0.07 LB.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY033 ขนตา 10D 0.07 D  แยกไซส์ 9-12 MM..webp",
+    "output": "Final/Eyelash/EY033 ขนตา 10D 0.07 D  แยกไซส์ 9-12 MM..png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY034 ขนตา 6D 0.07 D  แยกไซส์ 9-12 MM..webp",
+    "output": "Final/Eyelash/EY034 ขนตา 6D 0.07 D  แยกไซส์ 9-12 MM..png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY035 ขนตาสำหรับต่อขนตาล่าง 0.2 I.webp",
+    "output": "Final/Eyelash/EY035 ขนตาสำหรับต่อขนตาล่าง 0.2 I.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY036 แปรงไมโครหัวยาว 100 ชิ้น.webp",
+    "output": "Final/Eyelash/EY036 แปรงไมโครหัวยาว 100 ชิ้น.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY037 เทปญี่ปุ่น.webp",
+    "output": "Final/Eyelash/EY037 เทปญี่ปุ่น.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY038 เซตดัดขนตา แบรนด์ SEEHA.webp",
+    "output": "Final/Eyelash/EY038 เซตดัดขนตา แบรนด์ SEEHA.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY039 อายแพดสูตรปกติ.webp",
+    "output": "Final/Eyelash/EY039 อายแพดสูตรปกติ.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY040 อายแพดสูตรบางพิเศษ.webp",
+    "output": "Final/Eyelash/EY040 อายแพดสูตรบางพิเศษ.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY041 อายแพดสูตรชุ่มชื้นพิเศษ.webp",
+    "output": "Final/Eyelash/EY041 อายแพดสูตรชุ่มชื้นพิเศษ.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY042 ที่ล้างทวิสเซอร์.webp",
+    "output": "Final/Eyelash/EY042 ที่ล้างทวิสเซอร์.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY043 ที่ใส่กาวต่อขนตา แหวนจับช่อ 50 ชิ้น.webp",
+    "output": "Final/Eyelash/EY043 ที่ใส่กาวต่อขนตา แหวนจับช่อ 50 ชิ้น.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY048 น้ำยาสำหรับปรับค่า PH ขนตาหลังดัด.webp",
+    "output": "Final/Eyelash/EY048 น้ำยาสำหรับปรับค่า PH ขนตาหลังดัด.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY049 เซรั่มจับช่อ พร้อมบำรุงขนตา.webp",
+    "output": "Final/Eyelash/EY049 เซรั่มจับช่อ พร้อมบำรุงขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY050 ทวิตเซอร์มีไฟ LED.webp",
+    "output": "Final/Eyelash/EY050 ทวิตเซอร์มีไฟ LED.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY052 น้อง P5. ทวิตเซอร์จับขนตา.webp",
+    "output": "Final/Eyelash/EY052 น้อง P5. ทวิตเซอร์จับขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY053 คีมแหวกขนตา.webp",
+    "output": "Final/Eyelash/EY053 คีมแหวกขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY054 เซตซิลิโคนสำหรับล้างทำความสะอาดขนตา.webp",
+    "output": "Final/Eyelash/EY054 เซตซิลิโคนสำหรับล้างทำความสะอาดขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY055 ซิลิโคนรุ่น MOONY ROD ความงอน L.webp",
+    "output": "Final/Eyelash/EY055 ซิลิโคนรุ่น MOONY ROD ความงอน L.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY056 ซิลิโคนบางรุ่น DREAMY BUNNY PAD.webp",
+    "output": "Final/Eyelash/EY056 ซิลิโคนบางรุ่น DREAMY BUNNY PAD.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY057 ซิลิโคน รุ่น BOBO FISH ROD ความงอล LD.webp",
+    "output": "Final/Eyelash/EY057 ซิลิโคน รุ่น BOBO FISH ROD ความงอล LD.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY059 บาร์มสำหรับดัดขนตา.webp",
+    "output": "Final/Eyelash/EY059 บาร์มสำหรับดัดขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY060 น้ำยาเบอร์ 1 แบรนด์ PA COOL.webp",
+    "output": "Final/Eyelash/EY060 น้ำยาเบอร์ 1 แบรนด์ PA COOL.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY061 น้ำยาเบอร์ 2 แบรนด์ PA COOL.webp",
+    "output": "Final/Eyelash/EY061 น้ำยาเบอร์ 2 แบรนด์ PA COOL.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY062 PINK OIL CREAM.webp",
+    "output": "Final/Eyelash/EY062 PINK OIL CREAM.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY063 PNK BALANCER.webp",
+    "output": "Final/Eyelash/EY063 PNK BALANCER.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY065 ซิลิโคนรุ่น QQ PINK ROD.webp",
+    "output": "Final/Eyelash/EY065 ซิลิโคนรุ่น QQ PINK ROD.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY066 กระดาษแปะน้ำยาดัดขนตา.webp",
+    "output": "Final/Eyelash/EY066 กระดาษแปะน้ำยาดัดขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY068 แปรงปัดขนตา แบรนด์ PA COOL.webp",
+    "output": "Final/Eyelash/EY068 แปรงปัดขนตา แบรนด์ PA COOL.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "EY070 แหนบจับช่อขนตา.webp",
+    "output": "Final/Eyelash/EY070 แหนบจับช่อขนตา.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY001 ขนตารุ่น 3D VOLUME.webp",
+    "output": "Final/Eyelash/TY001 ขนตารุ่น 3D VOLUME.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY002 ขนตารุ่น YY WING (C).webp",
+    "output": "Final/Eyelash/TY002 ขนตารุ่น YY WING (C).png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY003 ขนตารุ่น 5D W-SHAPE.webp",
+    "output": "Final/Eyelash/TY003 ขนตารุ่น 5D W-SHAPE.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY004 ขนตารุ่น SINGLE LASH.webp",
+    "output": "Final/Eyelash/TY004 ขนตารุ่น SINGLE LASH.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY005 ขนตารุ่น SINGLE LASH.JPEG.webp",
+    "output": "Final/Eyelash/TY005 ขนตารุ่น SINGLE LASH.JPEG.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY006 ขนตารุ่น YY WING (D).webp",
+    "output": "Final/Eyelash/TY006 ขนตารุ่น YY WING (D).png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY007 ขนตารายเส้น (แบน) งอน CC.webp",
+    "output": "Final/Eyelash/TY007 ขนตารายเส้น (แบน) งอน CC.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY008 ขนตารายเส้น (กลม) งอน C.webp",
+    "output": "Final/Eyelash/TY008 ขนตารายเส้น (กลม) งอน C.png"
+  },
+  {
+    "category": "Eyelash",
+    "file": "TY009 ขนตารายเส้น (กลม) งอน D.webp",
+    "output": "Final/Eyelash/TY009 ขนตารายเส้น (กลม) งอน D.png"
   }
 ]
