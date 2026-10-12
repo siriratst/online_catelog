@@ -3033,5 +3033,350 @@
     "category": "PVC",
     "file": "TA013-5-S PVC สั้น ทรงคอฟฟินรุ่นขอบบาง#1.webp",
     "output": "Final/PVC/TA013-5-S PVC สั้น ทรงคอฟฟินรุ่นขอบบาง#1.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "53467-4 พู่กันทำลาย เบอร์4 แบรนด์ BORN PRETTY.webp",
+    "output": "Final/Paintbrush/53467-4 พู่กันทำลาย เบอร์4 แบรนด์ BORN PRETTY.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "54221 พู่กันต่ออะคริลิค แบรนด์ BORN PRETTY.webp",
+    "output": "Final/Paintbrush/54221 พู่กันต่ออะคริลิค แบรนด์ BORN PRETTY.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "BORN007_SET เซตพู่กันต่ออะคริลิค แบรนด์ BORN PRETTY.webp",
+    "output": "Final/Paintbrush/BORN007_SET เซตพู่กันต่ออะคริลิค แบรนด์ BORN PRETTY.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "GD001 พู่กันทาสีเจล เบอร์1 แบรนด์GDCOCO.webp",
+    "output": "Final/Paintbrush/GD001 พู่กันทาสีเจล เบอร์1 แบรนด์GDCOCO.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "GD002 พู่กันไล่สี เบอร์ 2 แบรนด์ GDCOCO.webp",
+    "output": "Final/Paintbrush/GD002 พู่กันไล่สี เบอร์ 2 แบรนด์ GDCOCO.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "GD003 พู่กันต่อเจล เบอร์3 แบรนด์GDCOCO.webp",
+    "output": "Final/Paintbrush/GD003 พู่กันต่อเจล เบอร์3 แบรนด์GDCOCO.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "GD005 พู่กันเพ้นท์ปลายตัด เบอร์ 5 แบรนด์ GDCOCO.webp",
+    "output": "Final/Paintbrush/GD005 พู่กันเพ้นท์ปลายตัด เบอร์ 5 แบรนด์ GDCOCO.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "GD006 พู่กันทำลายตาราง เบอร์6 แบรนด์GDCOCO.webp",
+    "output": "Final/Paintbrush/GD006 พู่กันทำลายตาราง เบอร์6 แบรนด์GDCOCO.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "GD007 พู่กันเพ้นท์ เบอร์7 แบรนด์GDCOCO.webp",
+    "output": "Final/Paintbrush/GD007 พู่กันเพ้นท์ เบอร์7 แบรนด์GDCOCO.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "GD008 พู่กันเพ้นท์ ปลายแหลม เบอร์8 แบรนด์GDCOCO.webp",
+    "output": "Final/Paintbrush/GD008 พู่กันเพ้นท์ ปลายแหลม เบอร์8 แบรนด์GDCOCO.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "TA015_02.webp",
+    "output": "Final/Paintbrush/TA015_02.png"
+  },
+  {
+    "category": "Paintbrush",
+    "file": "TA015_03.webp",
+    "output": "Final/Paintbrush/TA015_03.png"
+  },
+  {
+    "category": "Remover",
+    "file": "AS006 น้ำยาถอดระเบิดเจล.webp",
+    "output": "Final/Remover/AS006 น้ำยาถอดระเบิดเจล.png"
+  },
+  {
+    "category": "Remover",
+    "file": "C019 น้ำยาล้างพู่กัน แบรนด์ CANNI.webp",
+    "output": "Final/Remover/C019 น้ำยาล้างพู่กัน แบรนด์ CANNI.png"
+  },
+  {
+    "category": "Remover",
+    "file": "CLENSER_CL1000 น้ำยาเช็ดหน้าเล็บ.webp",
+    "output": "Final/Remover/CLENSER_CL1000 น้ำยาเช็ดหน้าเล็บ.png"
+  },
+  {
+    "category": "Remover",
+    "file": "FOT001_1000 น้ำยาขัดส้นเท้า.webp",
+    "output": "Final/Remover/FOT001_1000 น้ำยาขัดส้นเท้า.png"
+  },
+  {
+    "category": "Remover",
+    "file": "OT007 สำลีไร้ขน (แบบแข็ง).webp",
+    "output": "Final/Remover/OT007 สำลีไร้ขน (แบบแข็ง).png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM003_01 ที่ขัดส้นเท้าสีขาว.webp",
+    "output": "Final/Remover/REM003_01 ที่ขัดส้นเท้าสีขาว.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM003_02 ที่ขัดส้นเท้าสีดำ.webp",
+    "output": "Final/Remover/REM003_02 ที่ขัดส้นเท้าสีดำ.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM004 ตะไบขัดส้นเท้า .webp",
+    "output": "Final/Remover/REM004 ตะไบขัดส้นเท้า .png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM005 ที่ขัดส้นเท้าสแตนเลสเกรดพรีเมี่ยม.webp",
+    "output": "Final/Remover/REM005 ที่ขัดส้นเท้าสแตนเลสเกรดพรีเมี่ยม.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM006.webp",
+    "output": "Final/Remover/REM006.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM007_CL15.webp",
+    "output": "Final/Remover/REM007_CL15.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM007_FOT15.webp",
+    "output": "Final/Remover/REM007_FOT15.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM007_TA15.webp",
+    "output": "Final/Remover/REM007_TA15.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REM008.webp",
+    "output": "Final/Remover/REM008.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REMOVER_CLP002 ตัวหนีบเท้าถอดเจล.webp",
+    "output": "Final/Remover/REMOVER_CLP002 ตัวหนีบเท้าถอดเจล.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REMOVER_GLO001 ฟอล์ยพร้อมสำลีสำหรับห่อถอดสีเจล.webp",
+    "output": "Final/Remover/REMOVER_GLO001 ฟอล์ยพร้อมสำลีสำหรับห่อถอดสีเจล.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REMOVER_GLO002 ที่คั่นเท้า.webp",
+    "output": "Final/Remover/REMOVER_GLO002 ที่คั่นเท้า.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REMOVER_GLO004 ที่คั่นเท้า.webp",
+    "output": "Final/Remover/REMOVER_GLO004 ที่คั่นเท้า.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REMOVER_R1000 น้ำยาถอดสีเจล.webp",
+    "output": "Final/Remover/REMOVER_R1000 น้ำยาถอดสีเจล.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REMOVER_R16 ชุดห่อถอดเจล.webp",
+    "output": "Final/Remover/REMOVER_R16 ชุดห่อถอดเจล.png"
+  },
+  {
+    "category": "Remover",
+    "file": "REMOVER_TA1000 น้ำยาถอดสีเจล.webp",
+    "output": "Final/Remover/REMOVER_TA1000 น้ำยาถอดสีเจล.png"
+  },
+  {
+    "category": "Remover",
+    "file": "SPR021_006 ขวดปั๊มใส.webp",
+    "output": "Final/Remover/SPR021_006 ขวดปั๊มใส.png"
+  },
+  {
+    "category": "SPA",
+    "file": "HAN001.webp",
+    "output": "Final/SPA/HAN001.png"
+  },
+  {
+    "category": "SPA",
+    "file": "PAR002.webp",
+    "output": "Final/SPA/PAR002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SI004_002 ZOMBIE FOOT SOAP.webp",
+    "output": "Final/SPA/SI004_002 ZOMBIE FOOT SOAP.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SI005 น้ำยาขัดส้นเท้า.webp",
+    "output": "Final/SPA/SI005 น้ำยาขัดส้นเท้า.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA001_002.webp",
+    "output": "Final/SPA/SPA001_002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA002_002.webp",
+    "output": "Final/SPA/SPA002_002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA003_002.webp",
+    "output": "Final/SPA/SPA003_002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA004_002.webp",
+    "output": "Final/SPA/SPA004_002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA005_002.webp",
+    "output": "Final/SPA/SPA005_002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA006_002.webp",
+    "output": "Final/SPA/SPA006_002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA007_002.webp",
+    "output": "Final/SPA/SPA007_002.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA010 BIOTIN.webp",
+    "output": "Final/SPA/SPA010 BIOTIN.png"
+  },
+  {
+    "category": "SPA",
+    "file": "SPA011 1DROPREPAIR .webp",
+    "output": "Final/SPA/SPA011 1DROPREPAIR .png"
+  },
+  {
+    "category": "SPA",
+    "file": "TA004.webp",
+    "output": "Final/SPA/TA004.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "B901 กรรไกรตัดเล็บปากตรง แบรนด์NGHIA.webp",
+    "output": "Final/Scissor+Pusher/B901 กรรไกรตัดเล็บปากตรง แบรนด์NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "B939DO กรรไกรตัดเล็บปากโค้งสีแดง แบรนด์ NGHIA.webp",
+    "output": "Final/Scissor+Pusher/B939DO กรรไกรตัดเล็บปากโค้งสีแดง แบรนด์ NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "B939XD กรรไกรตัดเล็บปากโค้งสีฟ้า แบรนด์ NGHIA.webp",
+    "output": "Final/Scissor+Pusher/B939XD กรรไกรตัดเล็บปากโค้งสีฟ้า แบรนด์ NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "B939XL กรรไกรตัดเล็บปากโค้งสีเขียว แบรนด์ NGHIA.webp",
+    "output": "Final/Scissor+Pusher/B939XL กรรไกรตัดเล็บปากโค้งสีเขียว แบรนด์ NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "D06 กรรไกรสแตนเลสพรีเมียม NGHIA.webp",
+    "output": "Final/Scissor+Pusher/D06 กรรไกรสแตนเลสพรีเมียม NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "D501 กรรไกรขาคู่ NGHIA 350.webp",
+    "output": "Final/Scissor+Pusher/D501 กรรไกรขาคู่ NGHIA 350.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "D507V กรรไกรสแตนเลสขาเดี่ยว แบรนด์ NGHIA.webp",
+    "output": "Final/Scissor+Pusher/D507V กรรไกรสแตนเลสขาเดี่ยว แบรนด์ NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "D555KD กรรไกรขาเดี่ยว NGHIA 320.webp",
+    "output": "Final/Scissor+Pusher/D555KD กรรไกรขาเดี่ยว NGHIA 320.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "D777 กรรไกรขาเดี่ยว NGHIA 290.webp",
+    "output": "Final/Scissor+Pusher/D777 กรรไกรขาเดี่ยว NGHIA 290.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "HL-505 กรรไกรตัดหนังขาคู่ แบรนด์ AAA.webp",
+    "output": "Final/Scissor+Pusher/HL-505 กรรไกรตัดหนังขาคู่ แบรนด์ AAA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "MAMA-01  กรรไกรตัดหนังแบรนด์ MAMA NAIL.JPG.webp",
+    "output": "Final/Scissor+Pusher/MAMA-01  กรรไกรตัดหนังแบรนด์ MAMA NAIL.JPG.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "OT076 คีมหนีบจัดทรงเล็บ.webp",
+    "output": "Final/Scissor+Pusher/OT076 คีมหนีบจัดทรงเล็บ.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "OT104 ใบมีดตัดเล็บขบ.webp",
+    "output": "Final/Scissor+Pusher/OT104 ใบมีดตัดเล็บขบ.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "OT115 กรรไกรตัดเล็บ PVC.webp",
+    "output": "Final/Scissor+Pusher/OT115 กรรไกรตัดเล็บ PVC.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "OT127 คีมหนีบจัดทรงเล็บ.webp",
+    "output": "Final/Scissor+Pusher/OT127 คีมหนีบจัดทรงเล็บ.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "P504 พุชเชอร์ดุนหนัง AAA.webp",
+    "output": "Final/Scissor+Pusher/P504 พุชเชอร์ดุนหนัง AAA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "PS01 พุชเชอร์ปลายตัด.webp",
+    "output": "Final/Scissor+Pusher/PS01 พุชเชอร์ปลายตัด.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "S506 พุชเชอร์ปลายแหลม NGHIA.webp",
+    "output": "Final/Scissor+Pusher/S506 พุชเชอร์ปลายแหลม NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "S511 พุชเชอร์งัดเล็บขบ NGHIA.webp",
+    "output": "Final/Scissor+Pusher/S511 พุชเชอร์งัดเล็บขบ NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "S514 พุชเชอร์ดุนหนัง แบรนด์NGHIA.webp",
+    "output": "Final/Scissor+Pusher/S514 พุชเชอร์ดุนหนัง แบรนด์NGHIA.png"
+  },
+  {
+    "category": "Scissor+Pusher",
+    "file": "SS001 กรรไกรตัดเล็บขนาดใหญ่.webp",
+    "output": "Final/Scissor+Pusher/SS001 กรรไกรตัดเล็บขนาดใหญ่.png"
   }
 ]
