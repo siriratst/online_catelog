@@ -2553,5 +2553,30 @@
     "category": "Eyelash",
     "file": "TY009 ขนตารายเส้น (กลม) งอน D.webp",
     "output": "Final/Eyelash/TY009 ขนตารายเส้น (กลม) งอน D.png"
+  },
+  {
+    "category": "Glue",
+    "file": "MXBON.webp",
+    "output": "Final/Glue/MXBON.png"
+  },
+  {
+    "category": "Glue",
+    "file": "OT001 ตัวหนีบใส.webp",
+    "output": "Final/Glue/OT001 ตัวหนีบใส.png"
+  },
+  {
+    "category": "Glue",
+    "file": "OT047 กาวเนื้อเจล_PVC.webp",
+    "output": "Final/Glue/OT047 กาวเนื้อเจล_PVC.png"
+  },
+  {
+    "category": "Glue",
+    "file": "V001 กาวติดอะไหล่ VELENDO.webp",
+    "output": "Final/Glue/V001 กาวติดอะไหล่ VELENDO.png"
+  },
+  {
+    "category": "Glue",
+    "file": "YI001_1.webp",
+    "output": "Final/Glue/YI001_1.png"
   }
 ]
