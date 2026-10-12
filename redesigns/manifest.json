@@ -3378,5 +3378,160 @@
     "category": "Scissor+Pusher",
     "file": "SS001 กรรไกรตัดเล็บขนาดใหญ่.webp",
     "output": "Final/Scissor+Pusher/SS001 กรรไกรตัดเล็บขนาดใหญ่.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "AS008 น้ำยาหนังนิ่ม.webp",
+    "output": "Final/Treatment/AS008 น้ำยาหนังนิ่ม.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "COIL_5.webp",
+    "output": "Final/Treatment/COIL_5.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "COIL_6.webp",
+    "output": "Final/Treatment/COIL_6.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "PAR001.webp",
+    "output": "Final/Treatment/PAR001.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "TA012-1.webp",
+    "output": "Final/Treatment/TA012-1.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "TA012-2.webp",
+    "output": "Final/Treatment/TA012-2.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "TA012-3.webp",
+    "output": "Final/Treatment/TA012-3.png"
+  },
+  {
+    "category": "Treatment",
+    "file": "TA012-4.webp",
+    "output": "Final/Treatment/TA012-4.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "BF001 บัฟ100 180 แบรนด์ANNIE.webp",
+    "output": "Final/Buff and Rasp/BF001 บัฟ100 180 แบรนด์ANNIE.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "DG.403A ตะไบบาง 10 ชิ้น แบรนด์ NGHIA.webp",
+    "output": "Final/Buff and Rasp/DG.403A ตะไบบาง 10 ชิ้น แบรนด์ NGHIA.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "K004 ตะไบบางลายผีเสื้อ แบรนด์NAIL SUNSHINE.webp",
+    "output": "Final/Buff and Rasp/K004 ตะไบบางลายผีเสื้อ แบรนด์NAIL SUNSHINE.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "KN013 ตะไบบาง 180 240.webp",
+    "output": "Final/Buff and Rasp/KN013 ตะไบบาง 180 240.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "KN015 บัฟ 100 180.webp",
+    "output": "Final/Buff and Rasp/KN015 บัฟ 100 180.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "LUP001 ตะไบบางเกาหลี 180 180 แบรนด์ LUPINE.webp",
+    "output": "Final/Buff and Rasp/LUP001 ตะไบบางเกาหลี 180 180 แบรนด์ LUPINE.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "MAM001 บัฟ 150 150 แบรนด์ MAMA NAIL.webp",
+    "output": "Final/Buff and Rasp/MAM001 บัฟ 150 150 แบรนด์ MAMA NAIL.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "MAM002 ตะไบ 80 80 แบรนด์ MAMA NAIL.webp",
+    "output": "Final/Buff and Rasp/MAM002 ตะไบ 80 80 แบรนด์ MAMA NAIL.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "MAM003 ตะไบ 180 180 แบรนด์ MAMA NAIL.webp",
+    "output": "Final/Buff and Rasp/MAM003 ตะไบ 180 180 แบรนด์ MAMA NAIL.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "MAM004 ตะไบ 3 IN 1.webp",
+    "output": "Final/Buff and Rasp/MAM004 ตะไบ 3 IN 1.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "MAM005 ตะไบหยาบ 100180 แบรนด์ KLIMONLA.webp",
+    "output": "Final/Buff and Rasp/MAM005 ตะไบหยาบ 100180 แบรนด์ KLIMONLA.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "NS001 ตะไบคริสมาสต์.webp",
+    "output": "Final/Buff and Rasp/NS001 ตะไบคริสมาสต์.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "NS002.webp",
+    "output": "Final/Buff and Rasp/NS002.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "NS003.webp",
+    "output": "Final/Buff and Rasp/NS003.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "OT046 ตะไบไอติม.webp",
+    "output": "Final/Buff and Rasp/OT046 ตะไบไอติม.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "SS001 บัฟเงา 600 3000 แบรนด์SALON’S SECRET.webp",
+    "output": "Final/Buff and Rasp/SS001 บัฟเงา 600 3000 แบรนด์SALON’S SECRET.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "VNL02 ตะไบบาง180 240 แบรนด์VENALISA.webp",
+    "output": "Final/Buff and Rasp/VNL02 ตะไบบาง180 240 แบรนด์VENALISA.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "VNL03 ตะไบหยาบ100 180 แบรนด์VENALISA.webp",
+    "output": "Final/Buff and Rasp/VNL03 ตะไบหยาบ100 180 แบรนด์VENALISA.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "VNL10-01.webp",
+    "output": "Final/Buff and Rasp/VNL10-01.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "VNL10-02.webp",
+    "output": "Final/Buff and Rasp/VNL10-02.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "VNL10-03.webp",
+    "output": "Final/Buff and Rasp/VNL10-03.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "VNL10-04.webp",
+    "output": "Final/Buff and Rasp/VNL10-04.png"
+  },
+  {
+    "category": "Buff and Rasp",
+    "file": "YAA001 ตะไบหยาบญี่ปุ่น 100 100.webp",
+    "output": "Final/Buff and Rasp/YAA001 ตะไบหยาบญี่ปุ่น 100 100.png"
   }
 ]
