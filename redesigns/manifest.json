@@ -3918,5 +3918,140 @@
     "category": "สีแยกขวด",
     "file": "LT003.webp",
     "output": "Final/สีแยกขวด/LT003.png"
+  },
+  {
+    "category": "Chart",
+    "file": "AN048_001 ชาร์ทแท่งขุ่น (เหลี่ยม).webp",
+    "output": "Final/Chart/AN048_001 ชาร์ทแท่งขุ่น (เหลี่ยม).png"
+  },
+  {
+    "category": "Chart",
+    "file": "AN048_002 ชาร์ทแท่งใส (เหลี่ยม).webp",
+    "output": "Final/Chart/AN048_002 ชาร์ทแท่งใส (เหลี่ยม).png"
+  },
+  {
+    "category": "Chart",
+    "file": "AN048_003 ชาร์ทแท่งขุ่น (มน).webp",
+    "output": "Final/Chart/AN048_003 ชาร์ทแท่งขุ่น (มน).png"
+  },
+  {
+    "category": "Chart",
+    "file": "AN048_005 ชาร์ทแท่งใส (แหลม).webp",
+    "output": "Final/Chart/AN048_005 ชาร์ทแท่งใส (แหลม).png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA012.webp",
+    "output": "Final/Chart/CHA012.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA019 สมุดทาสีโชว์ 130 สี.webp",
+    "output": "Final/Chart/CHA019 สมุดทาสีโชว์ 130 สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA020 สมุดทาสีโชว์เล็บเล่มใหญ่.webp",
+    "output": "Final/Chart/CHA020 สมุดทาสีโชว์เล็บเล่มใหญ่.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA034 ชาร์ทอะคริลิค 25 สี.webp",
+    "output": "Final/Chart/CHA034 ชาร์ทอะคริลิค 25 สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA037_03.webp",
+    "output": "Final/Chart/CHA037_03.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA043 ชาร์ทสี 240 สี.webp",
+    "output": "Final/Chart/CHA043 ชาร์ทสี 240 สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA047 ชาร์ทสี 240 สี.webp",
+    "output": "Final/Chart/CHA047 ชาร์ทสี 240 สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA052 สมุดชาร์ทแบบ MAGNET.webp",
+    "output": "Final/Chart/CHA052 สมุดชาร์ทแบบ MAGNET.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA054 ชาร์ทโชว์แบบ MAGNET 40 สี.webp",
+    "output": "Final/Chart/CHA054 ชาร์ทโชว์แบบ MAGNET 40 สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA055 ชาร์ทสีตั้งโชว์แบบ MAGNET 50 สี.webp",
+    "output": "Final/Chart/CHA055 ชาร์ทสีตั้งโชว์แบบ MAGNET 50 สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA057 ชาร์ทแบบเสียบ 90 สี.webp",
+    "output": "Final/Chart/CHA057 ชาร์ทแบบเสียบ 90 สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA060 ชาร์ทโชว์สี พร้อมที่แขวน 66 สี .webp",
+    "output": "Final/Chart/CHA060 ชาร์ทโชว์สี พร้อมที่แขวน 66 สี .png"
+  },
+  {
+    "category": "Chart",
+    "file": "CHA09 กรอบรูปตั้งโชว์สำหรับทำชาร์ทสี36สี.webp",
+    "output": "Final/Chart/CHA09 กรอบรูปตั้งโชว์สำหรับทำชาร์ทสี36สี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "K003 ชาร์ทวงแหวนติดขวด 50อัน.webp",
+    "output": "Final/Chart/K003 ชาร์ทวงแหวนติดขวด 50อัน.png"
+  },
+  {
+    "category": "Chart",
+    "file": "OT128 ฐานรองที่เพ้นท์รูปผีเสื้อ.webp",
+    "output": "Final/Chart/OT128 ฐานรองที่เพ้นท์รูปผีเสื้อ.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR002 กาว2หน้าแปะชาร์ทสีแบบกลม.webp",
+    "output": "Final/Chart/SPR002 กาว2หน้าแปะชาร์ทสีแบบกลม.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR007 เม็ดตัวหมีแปะชาร์ทสี.webp",
+    "output": "Final/Chart/SPR007 เม็ดตัวหมีแปะชาร์ทสี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR008 กาว2หน้าแปะชาร์ทสีแบบยาว.webp",
+    "output": "Final/Chart/SPR008 กาว2หน้าแปะชาร์ทสีแบบยาว.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR023_002 ชาร์ทกลมขุ่น.webp",
+    "output": "Final/Chart/SPR023_002 ชาร์ทกลมขุ่น.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR024_001 ชาร์ทดอกไม้ สีใส.webp",
+    "output": "Final/Chart/SPR024_001 ชาร์ทดอกไม้ สีใส.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR046 แท่นวางทาสี.webp",
+    "output": "Final/Chart/SPR046 แท่นวางทาสี.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR060_01 แท่นวางสีแบบไม้.webp",
+    "output": "Final/Chart/SPR060_01 แท่นวางสีแบบไม้.png"
+  },
+  {
+    "category": "Chart",
+    "file": "SPR060_03 แท่นสีใสขนาดเล็ก.webp",
+    "output": "Final/Chart/SPR060_03 แท่นสีใสขนาดเล็ก.png"
   }
 ]
